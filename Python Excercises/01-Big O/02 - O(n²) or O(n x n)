@@ -1,0 +1,10 @@
+# This time, the number of times n = 10 
+# is lesser than the number of operations = 100
+def print_items(n):
+    for i in range(n):
+        for j in range(n):
+            print(i,j)
+    
+print_items(10)
+
+# n = 10 < operations = 100
